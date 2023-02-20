@@ -1,0 +1,7 @@
+I developed this project for a client who supplied the front-end part.
+
+I wrote the web app in core PHP and MySQL.
+
+I also have experience with laravel but I have put most effort to this project.
+
+Thanks.
